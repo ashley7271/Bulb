@@ -10,7 +10,7 @@ public class LightBulbTest {
 	
 	@Before
 	public void setUp() throws Exception {
-	b=new LightBulb(100);
+	b=new LightBulb(200);
 	}
 
 	@Test
